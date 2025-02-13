@@ -54,7 +54,7 @@ public class IntervalosTest {
         System.out.println("ObtenerCategoria");
         int a = -7;
         String expResult = "Intervalo A";
-        String result = Intervalos.ObtenerCategoria(a);
+        String result = Intervalos.ObtenerIntervalo(a);
         assertEquals(expResult, result);
         
     }
@@ -63,7 +63,7 @@ public class IntervalosTest {
         System.out.println("ObtenerCategoria");
         int a = -2;
         String expResult = "Intervalo B";
-        String result = Intervalos.ObtenerCategoria(a);
+        String result = Intervalos.ObtenerIntervalo(a);
         assertEquals(expResult, result);
         
     }
@@ -72,7 +72,7 @@ public class IntervalosTest {
         System.out.println("ObtenerCategoria");
         int a = 9;
         String expResult = "Intervalo C";
-        String result = Intervalos.ObtenerCategoria(a);
+        String result = Intervalos.ObtenerIntervalo(a);
         assertEquals(expResult, result);
         
     }
@@ -82,7 +82,7 @@ public class IntervalosTest {
         System.out.println("ObtenerCategoria");
         int a = -4;
         String expResult = "Intervalo B";
-        String result = Intervalos.ObtenerCategoria(a);
+        String result = Intervalos.ObtenerIntervalo(a);
         assertEquals(expResult, result);
         
     }
@@ -92,7 +92,7 @@ public class IntervalosTest {
         System.out.println("ObtenerCategoria");
         int a = 6;
         String expResult = "Intervalo C";
-        String result = Intervalos.ObtenerCategoria(a);
+        String result = Intervalos.ObtenerIntervalo(a);
         assertEquals(expResult, result);
         
     }
