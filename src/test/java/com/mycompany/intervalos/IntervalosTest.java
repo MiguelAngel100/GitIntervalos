@@ -12,8 +12,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
+ * A continucion se realiza las pruebas del proyecto, 
+ * para asegurarse que funciona correctamente
  * @author miguelangel
+ * @version 1.0
+ * @since 13-2-2025
  */
 public class IntervalosTest {
     
@@ -37,7 +40,7 @@ public class IntervalosTest {
     }
 
     /**
-     * Test of main method, of class Intervalos.
+     * Test de la clase principal, de la clase intervalos.
      */
     @Test
     public void testMain() {
@@ -47,7 +50,8 @@ public class IntervalosTest {
     }
 
     /**
-     * Test of ObtenerCategoria method, of class Intervalos.
+     * Test del método ObtenerCategoria, de la clase intervalos.
+     * comprueba el rango A
      */
     @Test
     public void testObtenerCategoriaA() {
@@ -58,6 +62,10 @@ public class IntervalosTest {
         assertEquals(expResult, result);
         
     }
+    /**
+     * Test del método ObtenerCategoria, de la clase intervalos.
+     * comprueba el rango B
+     */
     @Test
     public void testObtenerCategoriaB() {
         System.out.println("ObtenerCategoria");
@@ -67,6 +75,10 @@ public class IntervalosTest {
         assertEquals(expResult, result);
         
     }
+    /**
+     * Test del método ObtenerCategoria, de la clase intervalos.
+     * comprueba el rango C
+     */
     @Test
     public void testObtenerCategoriaC() {
         System.out.println("ObtenerCategoria");
@@ -76,7 +88,10 @@ public class IntervalosTest {
         assertEquals(expResult, result);
         
     }
-    
+    /**
+     * Test del método ObtenerCategoria, de la clase intervalos.
+     * comprueba el limite entre rango A y B
+     */
     @Test
     public void testObtenerCategoriaLimA_B() {
         System.out.println("ObtenerCategoria");
@@ -86,7 +101,10 @@ public class IntervalosTest {
         assertEquals(expResult, result);
         
     }
-    
+    /**
+     * Test del método ObtenerCategoria, de la clase intervalos.
+     * comprueba el limite entre rango B y C
+     */
     @Test
     public void testObtenerCategoriaLimB_C() {
         System.out.println("ObtenerCategoria");

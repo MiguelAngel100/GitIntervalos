@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'/home/miguelangel/NetBeansProjects/Intervalos/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Intervalos 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Intervalos 1.0-SNAPSHOT API'
+com.mycompany.intervalos
+/home/miguelangel/NetBeansProjects/Intervalos/src/main/java = 1739222967844
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/search-page.js = 1739475092288
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/type-search-index.js = 1739475092261
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/package-search-index.js = 1739475092261
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/copy.svg = 1739475092285
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/help-doc.html = 1739475092280
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/module-search-index.js = 1739475092261
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/index.html = 1739475092275
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/member-search-index.js = 1739475092262
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/overview-tree.html = 1739475092245
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/stylesheet.css = 1739475092283
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/element-list = 1739475092219
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/tag-search-index.js = 1739475092262
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/allclasses-index.html = 1739475092258
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/link.svg = 1739475092285
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/search.js = 1739475092287
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/allpackages-index.html = 1739475092260
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/index-all.html = 1739475092271
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/search.html = 1739475092273
+/home/miguelangel/NetBeansProjects/Intervalos/target/reports/apidocs/script.js = 1739475092284
